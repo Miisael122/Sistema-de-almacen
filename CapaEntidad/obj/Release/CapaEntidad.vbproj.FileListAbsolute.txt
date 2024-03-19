@@ -1,0 +1,10 @@
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\bin\Release\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Release\CapaEntidad.vbproj.AssemblyReference.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Release\CapaEntidad.Resources.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Release\CapaEntidad.vbproj.GenerateResource.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Release\CapaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Release\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Release\CapaEntidad.pdb

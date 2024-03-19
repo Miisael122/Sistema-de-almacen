@@ -1,0 +1,32 @@
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.AssemblyReference.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CopyComplete
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.AssemblyReference.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\bin\Debug\CapaEntidad.xml
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.AssemblyReference.cache
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.cache
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.xml
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaEntidad\obj\Debug\CapaEntidad.pdb

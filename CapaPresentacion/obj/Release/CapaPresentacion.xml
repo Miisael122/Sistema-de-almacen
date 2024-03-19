@@ -1,0 +1,361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CapaPresentacion
+</name>
+</assembly>
+<members>
+<member name="T:CapaPresentacion.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.clientes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.clientes1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.compras">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.empleados">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.Icono_cerrar_FN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.Icono_Maximizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.Icono_Minimizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.Icono_Restaurar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.LOGO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.Mobile_Menu_Icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.pagos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.producto">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.producto1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.relo3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.reportes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CapaPresentacion.My.Resources.Resources.venta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.categoriasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.categoriasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.categoriasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSet1.proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reporteventa1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reporteventa2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reporteventa1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reporteventa2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reporteventa1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reporteventa2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportecompra3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportes.reportepago3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reporteventa1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reporteventa2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reportecompra1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reportecompra2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reportecompra3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reportepago1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reportepago2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.reportepago3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager.UpdateUpdatedRows(CapaPresentacion.DataSetReportes,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager.UpdateInsertedRows(CapaPresentacion.DataSetReportes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager.UpdateDeletedRows(CapaPresentacion.DataSetReportes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager.UpdateAll(CapaPresentacion.DataSetReportes)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CapaPresentacion.DataSetReportesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

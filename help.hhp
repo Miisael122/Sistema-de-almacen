@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=Table of Contents.hhc
+Default topic=ayuda\PRINCIPAL.html
+Display compile progress=No
+Index file=ayuda\Index.hhk
+Language=0x80a Español (México)
+
+
+[FILES]
+ayuda\PRINCIPAL.html
+ayuda\PRODUCTOS.html
+ayuda\REPORTES.html
+ayuda\VENTAS.html
+
+[INFOTYPES]
+

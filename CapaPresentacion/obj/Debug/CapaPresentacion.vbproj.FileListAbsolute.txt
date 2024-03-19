@@ -1,0 +1,299 @@
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategorias.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Menucont.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Pagos.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPagos1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra2.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra3.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago2.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago3.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultasVentas3.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas2.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra2.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra3.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago2.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago3.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPagos1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultasVentas3.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas2.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategorias.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Menucont.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Pagos.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte1.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte2.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte3.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte4.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte5.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte6.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte7.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte8.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Respaldar.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Restaurar.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Historico.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\CapaNegocios.xml
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra1.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra2.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra3.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago2.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago3.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPagos1.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultasVentas3.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas1.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas2.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategorias.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes1.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Historico.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Menucont.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Pagos.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte1.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte2.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte3.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte4.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte5.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte6.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte7.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte8.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Respaldar.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Restaurar.resources
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\msvil\OneDrive\Escritorio\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra1.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra2.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaCompra3.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago2.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPago3.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaPagos1.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultasVentas3.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas1.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.ConsultaVentas2.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategorias.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes1.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Historico.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Menucont.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Pagos.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte1.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte2.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte3.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte4.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.reporte5.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte6.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte7.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reporte8.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Reportes.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Respaldar.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.Restaurar.resources
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\RdlCompile.cache
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\RdlCompile.compiled
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+E:\Archivos\Programaicon en visual basic\Sistema de almacen\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

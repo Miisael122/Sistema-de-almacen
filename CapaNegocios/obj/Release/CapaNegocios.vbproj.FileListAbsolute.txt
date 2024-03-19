@@ -1,0 +1,17 @@
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaNegocios.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaNegocios.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaNegocios.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaDatos.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaEntidad.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaDatos.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaDatos.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaEntidad.pdb
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\bin\Release\CapaEntidad.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.vbproj.AssemblyReference.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.Resources.resources
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.vbproj.GenerateResource.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.vbproj.CoreCompileInputs.cache
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.vbproj.CopyComplete
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.dll
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.xml
+C:\Users\msvil\OneDrive\Documentos\SEMESTRE 7\SISTEMAS INTEGRALES DE INFORMACION\Sistema de almacen\CapaNegocios\obj\Release\CapaNegocios.pdb
