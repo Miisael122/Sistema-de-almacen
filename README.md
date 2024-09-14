@@ -4,7 +4,9 @@
 <h1>Index</h1>
 <ol>
   <li><a href="#1">Menú principal</a></li>
-  <li><a href="#1"></a></li>
+  <li><a href="#2"></a>Catálogos</li>
+  <li><a href="#3">Movimientos</a></li>
+  <li><a href="#4">Consultas</a></li>
 </ol>
 
 <h2>Pantallas</h2>
