@@ -17,7 +17,7 @@
 
 <p>Como se puede observar se cuentan con diversos modulos, incluco uno para poder restaurar o respaldar la base de datos, en caso de que se requiera.</p>
 
-<h4 id="2">Catálogo</h4>h4>
+<h4 id="2">Catálogo</h4>
 <p>Al dar click en el catálogo de proveedores se nos despliega la siguiente pantalla donde se puede editar o agregar nuevos proveedores al sistema. Los demas catalogos siguen la misma lógica.</p>
 
 ![image](https://github.com/user-attachments/assets/688e442f-fa7f-40a0-8fe1-336c64bdc861)
